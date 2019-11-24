@@ -1,2 +1,2 @@
 # iba ds lab hackaton
-Minsk house price prediction
+Minsk flat price prediction
